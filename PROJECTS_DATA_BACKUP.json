@@ -1,0 +1,120 @@
+[
+  {
+    "id": "wangshu",
+    "num": "01",
+    "title": "望舒视觉健康",
+    "engTitle": "WANGSHU VISION",
+    "tagline": "品牌联合创始 / 保障商业链路闭环 / AIGC 创意摄影重置",
+    "tags": ["Brand Strategy", "Offline Space Design", "UI/UX Experience", "AIGC Visual Modeling"],
+    "description": "作为 brand 联合创始人，独立全盘主导望舒视觉健康的商业创意与设计落地。从品牌商业化心智定位、线下客户视力照护实体空间陈列，到严整的标准化 VI 品牌手册。设计渠道覆盖线上、线下全向度宣传、海报系统、产品手册以及核心在线电商零售小程序。同时首次在工作流中全面导入 AIGC 虚拟商业模特，将精美奢适感的人物摄影创制成本下调数十倍，以前沿多模态人工智能重新定义实体品牌的高阶视觉溢价。",
+    "year": "2026",
+    "videoUrl": "https://raw.githubusercontent.com/niuniu-456000/niuniu/main/WANGHSU%20TVC.mp4",
+    "images": [
+      {
+        "url": "https://raw.githubusercontent.com/niuniu-456000/niuniu/main/%E6%9C%9B%E8%88%92VI.png",
+        "title": "望舒VI品牌视觉识别手册",
+        "description": "系统化的VI规范，构筑极具现代高奢感的黑白灰极致视觉秩序。"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/niuniu-456000/niuniu/main/%E6%9C%9B%E8%88%92%E9%97%A8%E5%BA%97.png",
+        "title": "实体旗舰店空间形象设计",
+        "description": "极防尘美学、流线轮廓与通透采光的物理融合，传达纯净卓越的视觉尊护体验。"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/niuniu-456000/niuniu/main/wangshumendian.png",
+        "title": "品牌在线会员服务小程序",
+        "description": "以极化轻薄的卡片排版、呼吸感呼吸微拟物控件，促成极客格调 of the shopping process."
+      },
+      {
+        "url": "https://raw.githubusercontent.com/niuniu-456000/niuniu/main/%E6%9C%9B%E8%88%92app.png",
+        "title": "定制化眼科诊疗与眼镜零售体验 App",
+        "description": "数字化视力评测、视光数据链路追溯，无缝交付行业先锋级别的医疗级服务。"
+      }
+    ]
+  },
+  {
+    "id": "rmango",
+    "num": "02",
+    "title": "小芒学伴",
+    "engTitle": "RMANGO",
+    "tagline": "软硬件融合生态 / 原创 IP 伴学潮玩 / 暖心多屏互动 system",
+    "tags": ["Smart Toy Design", "Character IP Strategy", "App Interface UI", "Retail Launch Deck"],
+    "description": "小芒学伴（RMANGO）是将高科技物理伴学硬件与数字化趣味生态深度缝合的里程碑创意。主导研发了涵盖立体 IP 角色重塑、伴学机器人硬件交互 model、伴学 App 系统级卡片UI、电商品牌宣传手册，以及开箱即惊艳的全套零售体验物料。通过极具包裹感的温暖圆弧、元气色彩与儿童友好信息架构，打破机器人的冰冷感，开辟温馨治愈的多维数字化学习与亲子陪护链路。",
+    "year": "2025",
+    "images": [
+      {
+        "url": "https://raw.githubusercontent.com/niuniu-456000/niuniu/main/%E5%B0%8F%E8%8A%92%E7%95%8C%E9%9D%A21.png",
+        "title": "芒学伴官网01",
+        "description": "圆润大气的卡牌架构与微拟物情感按钮，极其迎合孩童的触控知觉。"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/niuniu-456000/niuniu/main/mango%E7%95%8C%E9%9D%A22.png",
+        "title": "小芒学伴官网02",
+        "description": "通过插画游戏式主轴、欢快勋章奖励建立自我管理正循环。"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/niuniu-456000/niuniu/main/REMANGO1%20.png",
+        "title": "RMANGO IP 延展推广",
+        "description": "极具纵深与科技感的气氛色温，烘托学伴跨时代的设计内涵。"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/niuniu-456000/niuniu/main/rmango2.png",
+        "title": "IP延展产品效果图。",
+        "description": "小芒IP家族系列推广海报demo"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/niuniu-456000/niuniu/main/rmango3.png",
+        "title": "外销海报模版02",
+        "description": "APP外销商业化BANNER模版"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/niuniu-456000/niuniu/main/remango4.png",
+        "title": "IP角色延展-表情包 APP辅助角色延展",
+        "description": "科学防滚缓冲阻尼包装和贴纸卡折，让每次开启都成为沉浸的启智仪式。"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/niuniu-456000/niuniu/main/remango5.png",
+        "title": "外销IP海报",
+        "description": "对外销售的海报系列模版01"
+      }
+    ]
+  },
+  {
+    "id": "tianjiu",
+    "num": "03",
+    "title": "天九数科AI赋能",
+    "engTitle": "TOJOY AI TECH",
+    "tagline": "AI 赋能界面设计体系 / 系统性规范建构 / 企业服务全场景效能提质",
+    "tags": ["Digital Product Design", "AIGC Dashboard", "Enterprise UI Kit", "System Architecture"],
+    "description": "深度聚焦 AI 赋能的数智化产品界面设计，通过定制系统化的视觉设计规范与交互框架，实现业务流程的高效增效。项目整体设计以精密的逻辑视流与清晰的层次布局，将复杂、高密度的企业级数据形态转化为高质感的可视窗口，全方位赋能企业运营，提升集团数智服务的卓越品质与体验水准。",
+    "year": "2025",
+    "videoUrl": "https://raw.githubusercontent.com/niuniu-456000/niuniu/main/%E6%B5%8B%E5%AF%BF.mp4",
+    "images": [
+      {
+        "url": "https://raw.githubusercontent.com/niuniu-456000/niuniu/main/tianjiu01.png",
+        "title": "天九老板云商户界面优化",
+        "description": "针对老板云商户端管理后台进行深度视觉重构与布局优化，精细设计清晰的账目明细与核心经营看板。"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/niuniu-456000/niuniu/main/tianjiu02.png",
+        "title": "企业财税风险监测",
+        "description": "系统性整合企业财税多维风险监测及预警指标，实现智能诊断流程与合规体检的直观可视化呈现。"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/niuniu-456000/niuniu/main/tianjiu03.png",
+        "title": "天九数科企服PC端",
+        "description": "通过轻量化的内容架构与精细规范 of the grid layout, power up PC enterprise level work platform."
+      },
+      {
+        "url": "https://raw.githubusercontent.com/niuniu-456000/niuniu/main/tianjiu04.png",
+        "title": "企业服务内外运营长图",
+        "description": "全景梳理内外运营链路，在整体视觉规范指引下呈现一体化系统性的企业级运营长图范例。"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/niuniu-456000/niuniu/main/%E6%B5%8B%E5%AF%BF01.png",
+        "title": "“测寿宝”健康小程序系统",
+        "description": "基于卡片式内容框架，提供健康数据深度溯源与寿期趋势动态测评小程序系统规范设计。"
+      }
+    ]
+  }
+]
